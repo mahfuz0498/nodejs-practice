@@ -1,0 +1,12 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "type" : "module",
+  "description": "practicing node features",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahfuz hasan",
+  "license": "ISC"
+}
